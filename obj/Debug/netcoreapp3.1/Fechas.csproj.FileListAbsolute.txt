@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\HolaMundo\Fechas\bin\Debug\netcoreapp3.1\Fechas.exe
+C:\Users\Admin\source\repos\HolaMundo\Fechas\bin\Debug\netcoreapp3.1\Fechas.deps.json
+C:\Users\Admin\source\repos\HolaMundo\Fechas\bin\Debug\netcoreapp3.1\Fechas.runtimeconfig.json
+C:\Users\Admin\source\repos\HolaMundo\Fechas\bin\Debug\netcoreapp3.1\Fechas.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HolaMundo\Fechas\bin\Debug\netcoreapp3.1\Fechas.dll
+C:\Users\Admin\source\repos\HolaMundo\Fechas\bin\Debug\netcoreapp3.1\Fechas.pdb
+C:\Users\Admin\source\repos\HolaMundo\Fechas\obj\Debug\netcoreapp3.1\Fechas.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HolaMundo\Fechas\obj\Debug\netcoreapp3.1\Fechas.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HolaMundo\Fechas\obj\Debug\netcoreapp3.1\Fechas.dll
+C:\Users\Admin\source\repos\HolaMundo\Fechas\obj\Debug\netcoreapp3.1\Fechas.pdb
+C:\Users\Admin\source\repos\HolaMundo\Fechas\obj\Debug\netcoreapp3.1\Fechas.csprojAssemblyReference.cache
